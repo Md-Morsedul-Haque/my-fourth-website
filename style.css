@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-brand img{
+    width: 70%;
+}
+.pad-nv a{
+    color: #585050 !important;
+    padding: 0px 17px !important;
+}
+.my-btn{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+.h1{
+    color: black;
+}
+.p{
+    color: #ADADAD;
+}
+.h5{
+    color: orange;
+}
+.h4{
+    margin: 0 auto;
+    border-bottom: 5px solid orange;
+    padding-bottom: 20px;
+    width: 110px;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.carousel-item{
+    background-image: url(images/bg-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.card{
+    text-align: center;
+    border: none ;
+}
+.container{
+    margin-bottom: 60px;
+}
+
+.smartphon{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    left: 0px;
+    top: 0px;
+}
+.special-card{
+    background-color: #fff;
+    box-shadow: 1px 1px 10px gray;
+    height: 150px;
+    width: 170px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.categories img{
+    width: 40%;
+    height: 40%;
+}
+.first-card{
+    padding-left: 100px;
+}
+.fc{
+    margin-left: none;
+}
+.categories .pale-order{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
